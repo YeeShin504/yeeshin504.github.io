@@ -3,4 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: home
+permalink: /home/
 ---
+
+This is my home page.
